@@ -1,0 +1,837 @@
+COMMAND   PID TID TASKCMD               USER   FD      TYPE             DEVICE SIZE/OFF       NODE NAME
+systemd     1                           root  cwd   unknown                                        /proc/1/cwd (readlink: Permission denied)
+systemd     1                           root  rtd   unknown                                        /proc/1/root (readlink: Permission denied)
+systemd     1                           root  txt   unknown                                        /proc/1/exe (readlink: Permission denied)
+systemd     1                           root NOFD                                                  /proc/1/fd (opendir: Permission denied)
+kthreadd    2                           root  cwd   unknown                                        /proc/2/cwd (readlink: Permission denied)
+kthreadd    2                           root  rtd   unknown                                        /proc/2/root (readlink: Permission denied)
+kthreadd    2                           root  txt   unknown                                        /proc/2/exe (readlink: Permission denied)
+kthreadd    2                           root NOFD                                                  /proc/2/fd (opendir: Permission denied)
+rcu_gp      3                           root  cwd   unknown                                        /proc/3/cwd (readlink: Permission denied)
+rcu_gp      3                           root  rtd   unknown                                        /proc/3/root (readlink: Permission denied)
+rcu_gp      3                           root  txt   unknown                                        /proc/3/exe (readlink: Permission denied)
+rcu_gp      3                           root NOFD                                                  /proc/3/fd (opendir: Permission denied)
+rcu_par_g   4                           root  cwd   unknown                                        /proc/4/cwd (readlink: Permission denied)
+rcu_par_g   4                           root  rtd   unknown                                        /proc/4/root (readlink: Permission denied)
+rcu_par_g   4                           root  txt   unknown                                        /proc/4/exe (readlink: Permission denied)
+rcu_par_g   4                           root NOFD                                                  /proc/4/fd (opendir: Permission denied)
+kworker/0   5                           root  cwd   unknown                                        /proc/5/cwd (readlink: Permission denied)
+kworker/0   5                           root  rtd   unknown                                        /proc/5/root (readlink: Permission denied)
+kworker/0   5                           root  txt   unknown                                        /proc/5/exe (readlink: Permission denied)
+kworker/0   5                           root NOFD                                                  /proc/5/fd (opendir: Permission denied)
+kworker/0   6                           root  cwd   unknown                                        /proc/6/cwd (readlink: Permission denied)
+kworker/0   6                           root  rtd   unknown                                        /proc/6/root (readlink: Permission denied)
+kworker/0   6                           root  txt   unknown                                        /proc/6/exe (readlink: Permission denied)
+kworker/0   6                           root NOFD                                                  /proc/6/fd (opendir: Permission denied)
+kworker/0   7                           root  cwd   unknown                                        /proc/7/cwd (readlink: Permission denied)
+kworker/0   7                           root  rtd   unknown                                        /proc/7/root (readlink: Permission denied)
+kworker/0   7                           root  txt   unknown                                        /proc/7/exe (readlink: Permission denied)
+kworker/0   7                           root NOFD                                                  /proc/7/fd (opendir: Permission denied)
+kworker/u   8                           root  cwd   unknown                                        /proc/8/cwd (readlink: Permission denied)
+kworker/u   8                           root  rtd   unknown                                        /proc/8/root (readlink: Permission denied)
+kworker/u   8                           root  txt   unknown                                        /proc/8/exe (readlink: Permission denied)
+kworker/u   8                           root NOFD                                                  /proc/8/fd (opendir: Permission denied)
+mm_percpu   9                           root  cwd   unknown                                        /proc/9/cwd (readlink: Permission denied)
+mm_percpu   9                           root  rtd   unknown                                        /proc/9/root (readlink: Permission denied)
+mm_percpu   9                           root  txt   unknown                                        /proc/9/exe (readlink: Permission denied)
+mm_percpu   9                           root NOFD                                                  /proc/9/fd (opendir: Permission denied)
+rcu_tasks  10                           root  cwd   unknown                                        /proc/10/cwd (readlink: Permission denied)
+rcu_tasks  10                           root  rtd   unknown                                        /proc/10/root (readlink: Permission denied)
+rcu_tasks  10                           root  txt   unknown                                        /proc/10/exe (readlink: Permission denied)
+rcu_tasks  10                           root NOFD                                                  /proc/10/fd (opendir: Permission denied)
+rcu_tasks  11                           root  cwd   unknown                                        /proc/11/cwd (readlink: Permission denied)
+rcu_tasks  11                           root  rtd   unknown                                        /proc/11/root (readlink: Permission denied)
+rcu_tasks  11                           root  txt   unknown                                        /proc/11/exe (readlink: Permission denied)
+rcu_tasks  11                           root NOFD                                                  /proc/11/fd (opendir: Permission denied)
+ksoftirqd  12                           root  cwd   unknown                                        /proc/12/cwd (readlink: Permission denied)
+ksoftirqd  12                           root  rtd   unknown                                        /proc/12/root (readlink: Permission denied)
+ksoftirqd  12                           root  txt   unknown                                        /proc/12/exe (readlink: Permission denied)
+ksoftirqd  12                           root NOFD                                                  /proc/12/fd (opendir: Permission denied)
+rcu_sched  13                           root  cwd   unknown                                        /proc/13/cwd (readlink: Permission denied)
+rcu_sched  13                           root  rtd   unknown                                        /proc/13/root (readlink: Permission denied)
+rcu_sched  13                           root  txt   unknown                                        /proc/13/exe (readlink: Permission denied)
+rcu_sched  13                           root NOFD                                                  /proc/13/fd (opendir: Permission denied)
+migration  14                           root  cwd   unknown                                        /proc/14/cwd (readlink: Permission denied)
+migration  14                           root  rtd   unknown                                        /proc/14/root (readlink: Permission denied)
+migration  14                           root  txt   unknown                                        /proc/14/exe (readlink: Permission denied)
+migration  14                           root NOFD                                                  /proc/14/fd (opendir: Permission denied)
+idle_inje  15                           root  cwd   unknown                                        /proc/15/cwd (readlink: Permission denied)
+idle_inje  15                           root  rtd   unknown                                        /proc/15/root (readlink: Permission denied)
+idle_inje  15                           root  txt   unknown                                        /proc/15/exe (readlink: Permission denied)
+idle_inje  15                           root NOFD                                                  /proc/15/fd (opendir: Permission denied)
+cpuhp/0    16                           root  cwd   unknown                                        /proc/16/cwd (readlink: Permission denied)
+cpuhp/0    16                           root  rtd   unknown                                        /proc/16/root (readlink: Permission denied)
+cpuhp/0    16                           root  txt   unknown                                        /proc/16/exe (readlink: Permission denied)
+cpuhp/0    16                           root NOFD                                                  /proc/16/fd (opendir: Permission denied)
+kdevtmpfs  17                           root  cwd   unknown                                        /proc/17/cwd (readlink: Permission denied)
+kdevtmpfs  17                           root  rtd   unknown                                        /proc/17/root (readlink: Permission denied)
+kdevtmpfs  17                           root  txt   unknown                                        /proc/17/exe (readlink: Permission denied)
+kdevtmpfs  17                           root NOFD                                                  /proc/17/fd (opendir: Permission denied)
+netns      18                           root  cwd   unknown                                        /proc/18/cwd (readlink: Permission denied)
+netns      18                           root  rtd   unknown                                        /proc/18/root (readlink: Permission denied)
+netns      18                           root  txt   unknown                                        /proc/18/exe (readlink: Permission denied)
+netns      18                           root NOFD                                                  /proc/18/fd (opendir: Permission denied)
+inet_frag  19                           root  cwd   unknown                                        /proc/19/cwd (readlink: Permission denied)
+inet_frag  19                           root  rtd   unknown                                        /proc/19/root (readlink: Permission denied)
+inet_frag  19                           root  txt   unknown                                        /proc/19/exe (readlink: Permission denied)
+inet_frag  19                           root NOFD                                                  /proc/19/fd (opendir: Permission denied)
+kauditd    20                           root  cwd   unknown                                        /proc/20/cwd (readlink: Permission denied)
+kauditd    20                           root  rtd   unknown                                        /proc/20/root (readlink: Permission denied)
+kauditd    20                           root  txt   unknown                                        /proc/20/exe (readlink: Permission denied)
+kauditd    20                           root NOFD                                                  /proc/20/fd (opendir: Permission denied)
+khungtask  21                           root  cwd   unknown                                        /proc/21/cwd (readlink: Permission denied)
+khungtask  21                           root  rtd   unknown                                        /proc/21/root (readlink: Permission denied)
+khungtask  21                           root  txt   unknown                                        /proc/21/exe (readlink: Permission denied)
+khungtask  21                           root NOFD                                                  /proc/21/fd (opendir: Permission denied)
+oom_reape  22                           root  cwd   unknown                                        /proc/22/cwd (readlink: Permission denied)
+oom_reape  22                           root  rtd   unknown                                        /proc/22/root (readlink: Permission denied)
+oom_reape  22                           root  txt   unknown                                        /proc/22/exe (readlink: Permission denied)
+oom_reape  22                           root NOFD                                                  /proc/22/fd (opendir: Permission denied)
+writeback  23                           root  cwd   unknown                                        /proc/23/cwd (readlink: Permission denied)
+writeback  23                           root  rtd   unknown                                        /proc/23/root (readlink: Permission denied)
+writeback  23                           root  txt   unknown                                        /proc/23/exe (readlink: Permission denied)
+writeback  23                           root NOFD                                                  /proc/23/fd (opendir: Permission denied)
+kcompactd  24                           root  cwd   unknown                                        /proc/24/cwd (readlink: Permission denied)
+kcompactd  24                           root  rtd   unknown                                        /proc/24/root (readlink: Permission denied)
+kcompactd  24                           root  txt   unknown                                        /proc/24/exe (readlink: Permission denied)
+kcompactd  24                           root NOFD                                                  /proc/24/fd (opendir: Permission denied)
+ksmd       25                           root  cwd   unknown                                        /proc/25/cwd (readlink: Permission denied)
+ksmd       25                           root  rtd   unknown                                        /proc/25/root (readlink: Permission denied)
+ksmd       25                           root  txt   unknown                                        /proc/25/exe (readlink: Permission denied)
+ksmd       25                           root NOFD                                                  /proc/25/fd (opendir: Permission denied)
+khugepage  26                           root  cwd   unknown                                        /proc/26/cwd (readlink: Permission denied)
+khugepage  26                           root  rtd   unknown                                        /proc/26/root (readlink: Permission denied)
+khugepage  26                           root  txt   unknown                                        /proc/26/exe (readlink: Permission denied)
+khugepage  26                           root NOFD                                                  /proc/26/fd (opendir: Permission denied)
+kintegrit  72                           root  cwd   unknown                                        /proc/72/cwd (readlink: Permission denied)
+kintegrit  72                           root  rtd   unknown                                        /proc/72/root (readlink: Permission denied)
+kintegrit  72                           root  txt   unknown                                        /proc/72/exe (readlink: Permission denied)
+kintegrit  72                           root NOFD                                                  /proc/72/fd (opendir: Permission denied)
+kblockd    73                           root  cwd   unknown                                        /proc/73/cwd (readlink: Permission denied)
+kblockd    73                           root  rtd   unknown                                        /proc/73/root (readlink: Permission denied)
+kblockd    73                           root  txt   unknown                                        /proc/73/exe (readlink: Permission denied)
+kblockd    73                           root NOFD                                                  /proc/73/fd (opendir: Permission denied)
+blkcg_pun  74                           root  cwd   unknown                                        /proc/74/cwd (readlink: Permission denied)
+blkcg_pun  74                           root  rtd   unknown                                        /proc/74/root (readlink: Permission denied)
+blkcg_pun  74                           root  txt   unknown                                        /proc/74/exe (readlink: Permission denied)
+blkcg_pun  74                           root NOFD                                                  /proc/74/fd (opendir: Permission denied)
+xen-ballo  75                           root  cwd   unknown                                        /proc/75/cwd (readlink: Permission denied)
+xen-ballo  75                           root  rtd   unknown                                        /proc/75/root (readlink: Permission denied)
+xen-ballo  75                           root  txt   unknown                                        /proc/75/exe (readlink: Permission denied)
+xen-ballo  75                           root NOFD                                                  /proc/75/fd (opendir: Permission denied)
+tpm_dev_w  76                           root  cwd   unknown                                        /proc/76/cwd (readlink: Permission denied)
+tpm_dev_w  76                           root  rtd   unknown                                        /proc/76/root (readlink: Permission denied)
+tpm_dev_w  76                           root  txt   unknown                                        /proc/76/exe (readlink: Permission denied)
+tpm_dev_w  76                           root NOFD                                                  /proc/76/fd (opendir: Permission denied)
+ata_sff    77                           root  cwd   unknown                                        /proc/77/cwd (readlink: Permission denied)
+ata_sff    77                           root  rtd   unknown                                        /proc/77/root (readlink: Permission denied)
+ata_sff    77                           root  txt   unknown                                        /proc/77/exe (readlink: Permission denied)
+ata_sff    77                           root NOFD                                                  /proc/77/fd (opendir: Permission denied)
+md         78                           root  cwd   unknown                                        /proc/78/cwd (readlink: Permission denied)
+md         78                           root  rtd   unknown                                        /proc/78/root (readlink: Permission denied)
+md         78                           root  txt   unknown                                        /proc/78/exe (readlink: Permission denied)
+md         78                           root NOFD                                                  /proc/78/fd (opendir: Permission denied)
+edac-poll  79                           root  cwd   unknown                                        /proc/79/cwd (readlink: Permission denied)
+edac-poll  79                           root  rtd   unknown                                        /proc/79/root (readlink: Permission denied)
+edac-poll  79                           root  txt   unknown                                        /proc/79/exe (readlink: Permission denied)
+edac-poll  79                           root NOFD                                                  /proc/79/fd (opendir: Permission denied)
+devfreq_w  80                           root  cwd   unknown                                        /proc/80/cwd (readlink: Permission denied)
+devfreq_w  80                           root  rtd   unknown                                        /proc/80/root (readlink: Permission denied)
+devfreq_w  80                           root  txt   unknown                                        /proc/80/exe (readlink: Permission denied)
+devfreq_w  80                           root NOFD                                                  /proc/80/fd (opendir: Permission denied)
+watchdogd  81                           root  cwd   unknown                                        /proc/81/cwd (readlink: Permission denied)
+watchdogd  81                           root  rtd   unknown                                        /proc/81/root (readlink: Permission denied)
+watchdogd  81                           root  txt   unknown                                        /proc/81/exe (readlink: Permission denied)
+watchdogd  81                           root NOFD                                                  /proc/81/fd (opendir: Permission denied)
+kworker/u  82                           root  cwd   unknown                                        /proc/82/cwd (readlink: Permission denied)
+kworker/u  82                           root  rtd   unknown                                        /proc/82/root (readlink: Permission denied)
+kworker/u  82                           root  txt   unknown                                        /proc/82/exe (readlink: Permission denied)
+kworker/u  82                           root NOFD                                                  /proc/82/fd (opendir: Permission denied)
+kworker/0  83                           root  cwd   unknown                                        /proc/83/cwd (readlink: Permission denied)
+kworker/0  83                           root  rtd   unknown                                        /proc/83/root (readlink: Permission denied)
+kworker/0  83                           root  txt   unknown                                        /proc/83/exe (readlink: Permission denied)
+kworker/0  83                           root NOFD                                                  /proc/83/fd (opendir: Permission denied)
+kswapd0    85                           root  cwd   unknown                                        /proc/85/cwd (readlink: Permission denied)
+kswapd0    85                           root  rtd   unknown                                        /proc/85/root (readlink: Permission denied)
+kswapd0    85                           root  txt   unknown                                        /proc/85/exe (readlink: Permission denied)
+kswapd0    85                           root NOFD                                                  /proc/85/fd (opendir: Permission denied)
+ecryptfs-  86                           root  cwd   unknown                                        /proc/86/cwd (readlink: Permission denied)
+ecryptfs-  86                           root  rtd   unknown                                        /proc/86/root (readlink: Permission denied)
+ecryptfs-  86                           root  txt   unknown                                        /proc/86/exe (readlink: Permission denied)
+ecryptfs-  86                           root NOFD                                                  /proc/86/fd (opendir: Permission denied)
+kthrotld   88                           root  cwd   unknown                                        /proc/88/cwd (readlink: Permission denied)
+kthrotld   88                           root  rtd   unknown                                        /proc/88/root (readlink: Permission denied)
+kthrotld   88                           root  txt   unknown                                        /proc/88/exe (readlink: Permission denied)
+kthrotld   88                           root NOFD                                                  /proc/88/fd (opendir: Permission denied)
+acpi_ther  89                           root  cwd   unknown                                        /proc/89/cwd (readlink: Permission denied)
+acpi_ther  89                           root  rtd   unknown                                        /proc/89/root (readlink: Permission denied)
+acpi_ther  89                           root  txt   unknown                                        /proc/89/exe (readlink: Permission denied)
+acpi_ther  89                           root NOFD                                                  /proc/89/fd (opendir: Permission denied)
+xenbus     90                           root  cwd   unknown                                        /proc/90/cwd (readlink: Permission denied)
+xenbus     90                           root  rtd   unknown                                        /proc/90/root (readlink: Permission denied)
+xenbus     90                           root  txt   unknown                                        /proc/90/exe (readlink: Permission denied)
+xenbus     90                           root NOFD                                                  /proc/90/fd (opendir: Permission denied)
+xenwatch   91                           root  cwd   unknown                                        /proc/91/cwd (readlink: Permission denied)
+xenwatch   91                           root  rtd   unknown                                        /proc/91/root (readlink: Permission denied)
+xenwatch   91                           root  txt   unknown                                        /proc/91/exe (readlink: Permission denied)
+xenwatch   91                           root NOFD                                                  /proc/91/fd (opendir: Permission denied)
+nvme-wq    92                           root  cwd   unknown                                        /proc/92/cwd (readlink: Permission denied)
+nvme-wq    92                           root  rtd   unknown                                        /proc/92/root (readlink: Permission denied)
+nvme-wq    92                           root  txt   unknown                                        /proc/92/exe (readlink: Permission denied)
+nvme-wq    92                           root NOFD                                                  /proc/92/fd (opendir: Permission denied)
+nvme-rese  93                           root  cwd   unknown                                        /proc/93/cwd (readlink: Permission denied)
+nvme-rese  93                           root  rtd   unknown                                        /proc/93/root (readlink: Permission denied)
+nvme-rese  93                           root  txt   unknown                                        /proc/93/exe (readlink: Permission denied)
+nvme-rese  93                           root NOFD                                                  /proc/93/fd (opendir: Permission denied)
+nvme-dele  94                           root  cwd   unknown                                        /proc/94/cwd (readlink: Permission denied)
+nvme-dele  94                           root  rtd   unknown                                        /proc/94/root (readlink: Permission denied)
+nvme-dele  94                           root  txt   unknown                                        /proc/94/exe (readlink: Permission denied)
+nvme-dele  94                           root NOFD                                                  /proc/94/fd (opendir: Permission denied)
+scsi_eh_0  95                           root  cwd   unknown                                        /proc/95/cwd (readlink: Permission denied)
+scsi_eh_0  95                           root  rtd   unknown                                        /proc/95/root (readlink: Permission denied)
+scsi_eh_0  95                           root  txt   unknown                                        /proc/95/exe (readlink: Permission denied)
+scsi_eh_0  95                           root NOFD                                                  /proc/95/fd (opendir: Permission denied)
+scsi_tmf_  96                           root  cwd   unknown                                        /proc/96/cwd (readlink: Permission denied)
+scsi_tmf_  96                           root  rtd   unknown                                        /proc/96/root (readlink: Permission denied)
+scsi_tmf_  96                           root  txt   unknown                                        /proc/96/exe (readlink: Permission denied)
+scsi_tmf_  96                           root NOFD                                                  /proc/96/fd (opendir: Permission denied)
+scsi_eh_1  97                           root  cwd   unknown                                        /proc/97/cwd (readlink: Permission denied)
+scsi_eh_1  97                           root  rtd   unknown                                        /proc/97/root (readlink: Permission denied)
+scsi_eh_1  97                           root  txt   unknown                                        /proc/97/exe (readlink: Permission denied)
+scsi_eh_1  97                           root NOFD                                                  /proc/97/fd (opendir: Permission denied)
+scsi_tmf_  98                           root  cwd   unknown                                        /proc/98/cwd (readlink: Permission denied)
+scsi_tmf_  98                           root  rtd   unknown                                        /proc/98/root (readlink: Permission denied)
+scsi_tmf_  98                           root  txt   unknown                                        /proc/98/exe (readlink: Permission denied)
+scsi_tmf_  98                           root NOFD                                                  /proc/98/fd (opendir: Permission denied)
+kworker/u  99                           root  cwd   unknown                                        /proc/99/cwd (readlink: Permission denied)
+kworker/u  99                           root  rtd   unknown                                        /proc/99/root (readlink: Permission denied)
+kworker/u  99                           root  txt   unknown                                        /proc/99/exe (readlink: Permission denied)
+kworker/u  99                           root NOFD                                                  /proc/99/fd (opendir: Permission denied)
+vfio-irqf 100                           root  cwd   unknown                                        /proc/100/cwd (readlink: Permission denied)
+vfio-irqf 100                           root  rtd   unknown                                        /proc/100/root (readlink: Permission denied)
+vfio-irqf 100                           root  txt   unknown                                        /proc/100/exe (readlink: Permission denied)
+vfio-irqf 100                           root NOFD                                                  /proc/100/fd (opendir: Permission denied)
+mld       101                           root  cwd   unknown                                        /proc/101/cwd (readlink: Permission denied)
+mld       101                           root  rtd   unknown                                        /proc/101/root (readlink: Permission denied)
+mld       101                           root  txt   unknown                                        /proc/101/exe (readlink: Permission denied)
+mld       101                           root NOFD                                                  /proc/101/fd (opendir: Permission denied)
+ipv6_addr 102                           root  cwd   unknown                                        /proc/102/cwd (readlink: Permission denied)
+ipv6_addr 102                           root  rtd   unknown                                        /proc/102/root (readlink: Permission denied)
+ipv6_addr 102                           root  txt   unknown                                        /proc/102/exe (readlink: Permission denied)
+ipv6_addr 102                           root NOFD                                                  /proc/102/fd (opendir: Permission denied)
+kstrp     111                           root  cwd   unknown                                        /proc/111/cwd (readlink: Permission denied)
+kstrp     111                           root  rtd   unknown                                        /proc/111/root (readlink: Permission denied)
+kstrp     111                           root  txt   unknown                                        /proc/111/exe (readlink: Permission denied)
+kstrp     111                           root NOFD                                                  /proc/111/fd (opendir: Permission denied)
+zswap-shr 114                           root  cwd   unknown                                        /proc/114/cwd (readlink: Permission denied)
+zswap-shr 114                           root  rtd   unknown                                        /proc/114/root (readlink: Permission denied)
+zswap-shr 114                           root  txt   unknown                                        /proc/114/exe (readlink: Permission denied)
+zswap-shr 114                           root NOFD                                                  /proc/114/fd (opendir: Permission denied)
+kworker/u 115                           root  cwd   unknown                                        /proc/115/cwd (readlink: Permission denied)
+kworker/u 115                           root  rtd   unknown                                        /proc/115/root (readlink: Permission denied)
+kworker/u 115                           root  txt   unknown                                        /proc/115/exe (readlink: Permission denied)
+kworker/u 115                           root NOFD                                                  /proc/115/fd (opendir: Permission denied)
+charger_m 120                           root  cwd   unknown                                        /proc/120/cwd (readlink: Permission denied)
+charger_m 120                           root  rtd   unknown                                        /proc/120/root (readlink: Permission denied)
+charger_m 120                           root  txt   unknown                                        /proc/120/exe (readlink: Permission denied)
+charger_m 120                           root NOFD                                                  /proc/120/fd (opendir: Permission denied)
+jbd2/xvda 121                           root  cwd   unknown                                        /proc/121/cwd (readlink: Permission denied)
+jbd2/xvda 121                           root  rtd   unknown                                        /proc/121/root (readlink: Permission denied)
+jbd2/xvda 121                           root  txt   unknown                                        /proc/121/exe (readlink: Permission denied)
+jbd2/xvda 121                           root NOFD                                                  /proc/121/fd (opendir: Permission denied)
+ext4-rsv- 122                           root  cwd   unknown                                        /proc/122/cwd (readlink: Permission denied)
+ext4-rsv- 122                           root  rtd   unknown                                        /proc/122/root (readlink: Permission denied)
+ext4-rsv- 122                           root  txt   unknown                                        /proc/122/exe (readlink: Permission denied)
+ext4-rsv- 122                           root NOFD                                                  /proc/122/fd (opendir: Permission denied)
+systemd-j 163                           root  cwd   unknown                                        /proc/163/cwd (readlink: Permission denied)
+systemd-j 163                           root  rtd   unknown                                        /proc/163/root (readlink: Permission denied)
+systemd-j 163                           root  txt   unknown                                        /proc/163/exe (readlink: Permission denied)
+systemd-j 163                           root NOFD                                                  /proc/163/fd (opendir: Permission denied)
+ipmi-msgh 179                           root  cwd   unknown                                        /proc/179/cwd (readlink: Permission denied)
+ipmi-msgh 179                           root  rtd   unknown                                        /proc/179/root (readlink: Permission denied)
+ipmi-msgh 179                           root  txt   unknown                                        /proc/179/exe (readlink: Permission denied)
+ipmi-msgh 179                           root NOFD                                                  /proc/179/fd (opendir: Permission denied)
+systemd-u 194                           root  cwd   unknown                                        /proc/194/cwd (readlink: Permission denied)
+systemd-u 194                           root  rtd   unknown                                        /proc/194/root (readlink: Permission denied)
+systemd-u 194                           root  txt   unknown                                        /proc/194/exe (readlink: Permission denied)
+systemd-u 194                           root NOFD                                                  /proc/194/fd (opendir: Permission denied)
+kworker/0 206                           root  cwd   unknown                                        /proc/206/cwd (readlink: Permission denied)
+kworker/0 206                           root  rtd   unknown                                        /proc/206/root (readlink: Permission denied)
+kworker/0 206                           root  txt   unknown                                        /proc/206/exe (readlink: Permission denied)
+kworker/0 206                           root NOFD                                                  /proc/206/fd (opendir: Permission denied)
+cryptd    207                           root  cwd   unknown                                        /proc/207/cwd (readlink: Permission denied)
+cryptd    207                           root  rtd   unknown                                        /proc/207/root (readlink: Permission denied)
+cryptd    207                           root  txt   unknown                                        /proc/207/exe (readlink: Permission denied)
+cryptd    207                           root NOFD                                                  /proc/207/fd (opendir: Permission denied)
+kaluad    266                           root  cwd   unknown                                        /proc/266/cwd (readlink: Permission denied)
+kaluad    266                           root  rtd   unknown                                        /proc/266/root (readlink: Permission denied)
+kaluad    266                           root  txt   unknown                                        /proc/266/exe (readlink: Permission denied)
+kaluad    266                           root NOFD                                                  /proc/266/fd (opendir: Permission denied)
+kmpath_rd 267                           root  cwd   unknown                                        /proc/267/cwd (readlink: Permission denied)
+kmpath_rd 267                           root  rtd   unknown                                        /proc/267/root (readlink: Permission denied)
+kmpath_rd 267                           root  txt   unknown                                        /proc/267/exe (readlink: Permission denied)
+kmpath_rd 267                           root NOFD                                                  /proc/267/fd (opendir: Permission denied)
+kmpathd   268                           root  cwd   unknown                                        /proc/268/cwd (readlink: Permission denied)
+kmpathd   268                           root  rtd   unknown                                        /proc/268/root (readlink: Permission denied)
+kmpathd   268                           root  txt   unknown                                        /proc/268/exe (readlink: Permission denied)
+kmpathd   268                           root NOFD                                                  /proc/268/fd (opendir: Permission denied)
+kmpath_ha 269                           root  cwd   unknown                                        /proc/269/cwd (readlink: Permission denied)
+kmpath_ha 269                           root  rtd   unknown                                        /proc/269/root (readlink: Permission denied)
+kmpath_ha 269                           root  txt   unknown                                        /proc/269/exe (readlink: Permission denied)
+kmpath_ha 269                           root NOFD                                                  /proc/269/fd (opendir: Permission denied)
+multipath 270                           root  cwd   unknown                                        /proc/270/cwd (readlink: Permission denied)
+multipath 270                           root  rtd   unknown                                        /proc/270/root (readlink: Permission denied)
+multipath 270                           root  txt   unknown                                        /proc/270/exe (readlink: Permission denied)
+multipath 270                           root NOFD                                                  /proc/270/fd (opendir: Permission denied)
+multipath 270 271 multipath             root  cwd   unknown                                        /proc/270/task/271/cwd (readlink: Permission denied)
+multipath 270 271 multipath             root  rtd   unknown                                        /proc/270/task/271/root (readlink: Permission denied)
+multipath 270 271 multipath             root  txt   unknown                                        /proc/270/task/271/exe (readlink: Permission denied)
+multipath 270 271 multipath             root NOFD                                                  /proc/270/task/271/fd (opendir: Permission denied)
+multipath 270 272 multipath             root  cwd   unknown                                        /proc/270/task/272/cwd (readlink: Permission denied)
+multipath 270 272 multipath             root  rtd   unknown                                        /proc/270/task/272/root (readlink: Permission denied)
+multipath 270 272 multipath             root  txt   unknown                                        /proc/270/task/272/exe (readlink: Permission denied)
+multipath 270 272 multipath             root NOFD                                                  /proc/270/task/272/fd (opendir: Permission denied)
+multipath 270 273 multipath             root  cwd   unknown                                        /proc/270/task/273/cwd (readlink: Permission denied)
+multipath 270 273 multipath             root  rtd   unknown                                        /proc/270/task/273/root (readlink: Permission denied)
+multipath 270 273 multipath             root  txt   unknown                                        /proc/270/task/273/exe (readlink: Permission denied)
+multipath 270 273 multipath             root NOFD                                                  /proc/270/task/273/fd (opendir: Permission denied)
+multipath 270 274 multipath             root  cwd   unknown                                        /proc/270/task/274/cwd (readlink: Permission denied)
+multipath 270 274 multipath             root  rtd   unknown                                        /proc/270/task/274/root (readlink: Permission denied)
+multipath 270 274 multipath             root  txt   unknown                                        /proc/270/task/274/exe (readlink: Permission denied)
+multipath 270 274 multipath             root NOFD                                                  /proc/270/task/274/fd (opendir: Permission denied)
+multipath 270 275 multipath             root  cwd   unknown                                        /proc/270/task/275/cwd (readlink: Permission denied)
+multipath 270 275 multipath             root  rtd   unknown                                        /proc/270/task/275/root (readlink: Permission denied)
+multipath 270 275 multipath             root  txt   unknown                                        /proc/270/task/275/exe (readlink: Permission denied)
+multipath 270 275 multipath             root NOFD                                                  /proc/270/task/275/fd (opendir: Permission denied)
+multipath 270 276 multipath             root  cwd   unknown                                        /proc/270/task/276/cwd (readlink: Permission denied)
+multipath 270 276 multipath             root  rtd   unknown                                        /proc/270/task/276/root (readlink: Permission denied)
+multipath 270 276 multipath             root  txt   unknown                                        /proc/270/task/276/exe (readlink: Permission denied)
+multipath 270 276 multipath             root NOFD                                                  /proc/270/task/276/fd (opendir: Permission denied)
+loop0     278                           root  cwd   unknown                                        /proc/278/cwd (readlink: Permission denied)
+loop0     278                           root  rtd   unknown                                        /proc/278/root (readlink: Permission denied)
+loop0     278                           root  txt   unknown                                        /proc/278/exe (readlink: Permission denied)
+loop0     278                           root NOFD                                                  /proc/278/fd (opendir: Permission denied)
+loop1     281                           root  cwd   unknown                                        /proc/281/cwd (readlink: Permission denied)
+loop1     281                           root  rtd   unknown                                        /proc/281/root (readlink: Permission denied)
+loop1     281                           root  txt   unknown                                        /proc/281/exe (readlink: Permission denied)
+loop1     281                           root NOFD                                                  /proc/281/fd (opendir: Permission denied)
+loop2     283                           root  cwd   unknown                                        /proc/283/cwd (readlink: Permission denied)
+loop2     283                           root  rtd   unknown                                        /proc/283/root (readlink: Permission denied)
+loop2     283                           root  txt   unknown                                        /proc/283/exe (readlink: Permission denied)
+loop2     283                           root NOFD                                                  /proc/283/fd (opendir: Permission denied)
+loop3     284                           root  cwd   unknown                                        /proc/284/cwd (readlink: Permission denied)
+loop3     284                           root  rtd   unknown                                        /proc/284/root (readlink: Permission denied)
+loop3     284                           root  txt   unknown                                        /proc/284/exe (readlink: Permission denied)
+loop3     284                           root NOFD                                                  /proc/284/fd (opendir: Permission denied)
+loop4     286                           root  cwd   unknown                                        /proc/286/cwd (readlink: Permission denied)
+loop4     286                           root  rtd   unknown                                        /proc/286/root (readlink: Permission denied)
+loop4     286                           root  txt   unknown                                        /proc/286/exe (readlink: Permission denied)
+loop4     286                           root NOFD                                                  /proc/286/fd (opendir: Permission denied)
+loop5     290                           root  cwd   unknown                                        /proc/290/cwd (readlink: Permission denied)
+loop5     290                           root  rtd   unknown                                        /proc/290/root (readlink: Permission denied)
+loop5     290                           root  txt   unknown                                        /proc/290/exe (readlink: Permission denied)
+loop5     290                           root NOFD                                                  /proc/290/fd (opendir: Permission denied)
+loop6     293                           root  cwd   unknown                                        /proc/293/cwd (readlink: Permission denied)
+loop6     293                           root  rtd   unknown                                        /proc/293/root (readlink: Permission denied)
+loop6     293                           root  txt   unknown                                        /proc/293/exe (readlink: Permission denied)
+loop6     293                           root NOFD                                                  /proc/293/fd (opendir: Permission denied)
+loop7     297                           root  cwd   unknown                                        /proc/297/cwd (readlink: Permission denied)
+loop7     297                           root  rtd   unknown                                        /proc/297/root (readlink: Permission denied)
+loop7     297                           root  txt   unknown                                        /proc/297/exe (readlink: Permission denied)
+loop7     297                           root NOFD                                                  /proc/297/fd (opendir: Permission denied)
+loop8     300                           root  cwd   unknown                                        /proc/300/cwd (readlink: Permission denied)
+loop8     300                           root  rtd   unknown                                        /proc/300/root (readlink: Permission denied)
+loop8     300                           root  txt   unknown                                        /proc/300/exe (readlink: Permission denied)
+loop8     300                           root NOFD                                                  /proc/300/fd (opendir: Permission denied)
+systemd-t 327               systemd-timesync  cwd   unknown                                        /proc/327/cwd (readlink: Permission denied)
+systemd-t 327               systemd-timesync  rtd   unknown                                        /proc/327/root (readlink: Permission denied)
+systemd-t 327               systemd-timesync  txt   unknown                                        /proc/327/exe (readlink: Permission denied)
+systemd-t 327               systemd-timesync NOFD                                                  /proc/327/fd (opendir: Permission denied)
+systemd-t 327 341 sd-resolv systemd-timesync  cwd   unknown                                        /proc/327/task/341/cwd (readlink: Permission denied)
+systemd-t 327 341 sd-resolv systemd-timesync  rtd   unknown                                        /proc/327/task/341/root (readlink: Permission denied)
+systemd-t 327 341 sd-resolv systemd-timesync  txt   unknown                                        /proc/327/task/341/exe (readlink: Permission denied)
+systemd-t 327 341 sd-resolv systemd-timesync NOFD                                                  /proc/327/task/341/fd (opendir: Permission denied)
+systemd-n 389                systemd-network  cwd   unknown                                        /proc/389/cwd (readlink: Permission denied)
+systemd-n 389                systemd-network  rtd   unknown                                        /proc/389/root (readlink: Permission denied)
+systemd-n 389                systemd-network  txt   unknown                                        /proc/389/exe (readlink: Permission denied)
+systemd-n 389                systemd-network NOFD                                                  /proc/389/fd (opendir: Permission denied)
+systemd-r 392                systemd-resolve  cwd   unknown                                        /proc/392/cwd (readlink: Permission denied)
+systemd-r 392                systemd-resolve  rtd   unknown                                        /proc/392/root (readlink: Permission denied)
+systemd-r 392                systemd-resolve  txt   unknown                                        /proc/392/exe (readlink: Permission denied)
+systemd-r 392                systemd-resolve NOFD                                                  /proc/392/fd (opendir: Permission denied)
+accounts- 425                           root  cwd   unknown                                        /proc/425/cwd (readlink: Permission denied)
+accounts- 425                           root  rtd   unknown                                        /proc/425/root (readlink: Permission denied)
+accounts- 425                           root  txt   unknown                                        /proc/425/exe (readlink: Permission denied)
+accounts- 425                           root NOFD                                                  /proc/425/fd (opendir: Permission denied)
+accounts- 425 430 gmain                 root  cwd   unknown                                        /proc/425/task/430/cwd (readlink: Permission denied)
+accounts- 425 430 gmain                 root  rtd   unknown                                        /proc/425/task/430/root (readlink: Permission denied)
+accounts- 425 430 gmain                 root  txt   unknown                                        /proc/425/task/430/exe (readlink: Permission denied)
+accounts- 425 430 gmain                 root NOFD                                                  /proc/425/task/430/fd (opendir: Permission denied)
+accounts- 425 453 gdbus                 root  cwd   unknown                                        /proc/425/task/453/cwd (readlink: Permission denied)
+accounts- 425 453 gdbus                 root  rtd   unknown                                        /proc/425/task/453/root (readlink: Permission denied)
+accounts- 425 453 gdbus                 root  txt   unknown                                        /proc/425/task/453/exe (readlink: Permission denied)
+accounts- 425 453 gdbus                 root NOFD                                                  /proc/425/task/453/fd (opendir: Permission denied)
+acpid     426                           root  cwd   unknown                                        /proc/426/cwd (readlink: Permission denied)
+acpid     426                           root  rtd   unknown                                        /proc/426/root (readlink: Permission denied)
+acpid     426                           root  txt   unknown                                        /proc/426/exe (readlink: Permission denied)
+acpid     426                           root NOFD                                                  /proc/426/fd (opendir: Permission denied)
+cron      433                           root  cwd   unknown                                        /proc/433/cwd (readlink: Permission denied)
+cron      433                           root  rtd   unknown                                        /proc/433/root (readlink: Permission denied)
+cron      433                           root  txt   unknown                                        /proc/433/exe (readlink: Permission denied)
+cron      433                           root NOFD                                                  /proc/433/fd (opendir: Permission denied)
+dbus-daem 434                     messagebus  cwd   unknown                                        /proc/434/cwd (readlink: Permission denied)
+dbus-daem 434                     messagebus  rtd   unknown                                        /proc/434/root (readlink: Permission denied)
+dbus-daem 434                     messagebus  txt   unknown                                        /proc/434/exe (readlink: Permission denied)
+dbus-daem 434                     messagebus NOFD                                                  /proc/434/fd (opendir: Permission denied)
+networkd- 445                           root  cwd   unknown                                        /proc/445/cwd (readlink: Permission denied)
+networkd- 445                           root  rtd   unknown                                        /proc/445/root (readlink: Permission denied)
+networkd- 445                           root  txt   unknown                                        /proc/445/exe (readlink: Permission denied)
+networkd- 445                           root NOFD                                                  /proc/445/fd (opendir: Permission denied)
+polkitd   446                           root  cwd   unknown                                        /proc/446/cwd (readlink: Permission denied)
+polkitd   446                           root  rtd   unknown                                        /proc/446/root (readlink: Permission denied)
+polkitd   446                           root  txt   unknown                                        /proc/446/exe (readlink: Permission denied)
+polkitd   446                           root NOFD                                                  /proc/446/fd (opendir: Permission denied)
+polkitd   446 448 gmain                 root  cwd   unknown                                        /proc/446/task/448/cwd (readlink: Permission denied)
+polkitd   446 448 gmain                 root  rtd   unknown                                        /proc/446/task/448/root (readlink: Permission denied)
+polkitd   446 448 gmain                 root  txt   unknown                                        /proc/446/task/448/exe (readlink: Permission denied)
+polkitd   446 448 gmain                 root NOFD                                                  /proc/446/task/448/fd (opendir: Permission denied)
+polkitd   446 454 gdbus                 root  cwd   unknown                                        /proc/446/task/454/cwd (readlink: Permission denied)
+polkitd   446 454 gdbus                 root  rtd   unknown                                        /proc/446/task/454/root (readlink: Permission denied)
+polkitd   446 454 gdbus                 root  txt   unknown                                        /proc/446/task/454/exe (readlink: Permission denied)
+polkitd   446 454 gdbus                 root NOFD                                                  /proc/446/task/454/fd (opendir: Permission denied)
+rsyslogd  447                         syslog  cwd   unknown                                        /proc/447/cwd (readlink: Permission denied)
+rsyslogd  447                         syslog  rtd   unknown                                        /proc/447/root (readlink: Permission denied)
+rsyslogd  447                         syslog  txt   unknown                                        /proc/447/exe (readlink: Permission denied)
+rsyslogd  447                         syslog NOFD                                                  /proc/447/fd (opendir: Permission denied)
+rsyslogd  447 468 in:imuxso           syslog  cwd   unknown                                        /proc/447/task/468/cwd (readlink: Permission denied)
+rsyslogd  447 468 in:imuxso           syslog  rtd   unknown                                        /proc/447/task/468/root (readlink: Permission denied)
+rsyslogd  447 468 in:imuxso           syslog  txt   unknown                                        /proc/447/task/468/exe (readlink: Permission denied)
+rsyslogd  447 468 in:imuxso           syslog NOFD                                                  /proc/447/task/468/fd (opendir: Permission denied)
+rsyslogd  447 469 in:imklog           syslog  cwd   unknown                                        /proc/447/task/469/cwd (readlink: Permission denied)
+rsyslogd  447 469 in:imklog           syslog  rtd   unknown                                        /proc/447/task/469/root (readlink: Permission denied)
+rsyslogd  447 469 in:imklog           syslog  txt   unknown                                        /proc/447/task/469/exe (readlink: Permission denied)
+rsyslogd  447 469 in:imklog           syslog NOFD                                                  /proc/447/task/469/fd (opendir: Permission denied)
+rsyslogd  447 470 rs:main             syslog  cwd   unknown                                        /proc/447/task/470/cwd (readlink: Permission denied)
+rsyslogd  447 470 rs:main             syslog  rtd   unknown                                        /proc/447/task/470/root (readlink: Permission denied)
+rsyslogd  447 470 rs:main             syslog  txt   unknown                                        /proc/447/task/470/exe (readlink: Permission denied)
+rsyslogd  447 470 rs:main             syslog NOFD                                                  /proc/447/task/470/fd (opendir: Permission denied)
+amazon-ss 450                           root  cwd   unknown                                        /proc/450/cwd (readlink: Permission denied)
+amazon-ss 450                           root  rtd   unknown                                        /proc/450/root (readlink: Permission denied)
+amazon-ss 450                           root  txt   unknown                                        /proc/450/exe (readlink: Permission denied)
+amazon-ss 450                           root NOFD                                                  /proc/450/fd (opendir: Permission denied)
+amazon-ss 450 747 amazon-ss             root  cwd   unknown                                        /proc/450/task/747/cwd (readlink: Permission denied)
+amazon-ss 450 747 amazon-ss             root  rtd   unknown                                        /proc/450/task/747/root (readlink: Permission denied)
+amazon-ss 450 747 amazon-ss             root  txt   unknown                                        /proc/450/task/747/exe (readlink: Permission denied)
+amazon-ss 450 747 amazon-ss             root NOFD                                                  /proc/450/task/747/fd (opendir: Permission denied)
+amazon-ss 450 748 amazon-ss             root  cwd   unknown                                        /proc/450/task/748/cwd (readlink: Permission denied)
+amazon-ss 450 748 amazon-ss             root  rtd   unknown                                        /proc/450/task/748/root (readlink: Permission denied)
+amazon-ss 450 748 amazon-ss             root  txt   unknown                                        /proc/450/task/748/exe (readlink: Permission denied)
+amazon-ss 450 748 amazon-ss             root NOFD                                                  /proc/450/task/748/fd (opendir: Permission denied)
+amazon-ss 450 749 amazon-ss             root  cwd   unknown                                        /proc/450/task/749/cwd (readlink: Permission denied)
+amazon-ss 450 749 amazon-ss             root  rtd   unknown                                        /proc/450/task/749/root (readlink: Permission denied)
+amazon-ss 450 749 amazon-ss             root  txt   unknown                                        /proc/450/task/749/exe (readlink: Permission denied)
+amazon-ss 450 749 amazon-ss             root NOFD                                                  /proc/450/task/749/fd (opendir: Permission denied)
+amazon-ss 450 750 amazon-ss             root  cwd   unknown                                        /proc/450/task/750/cwd (readlink: Permission denied)
+amazon-ss 450 750 amazon-ss             root  rtd   unknown                                        /proc/450/task/750/root (readlink: Permission denied)
+amazon-ss 450 750 amazon-ss             root  txt   unknown                                        /proc/450/task/750/exe (readlink: Permission denied)
+amazon-ss 450 750 amazon-ss             root NOFD                                                  /proc/450/task/750/fd (opendir: Permission denied)
+amazon-ss 450 762 amazon-ss             root  cwd   unknown                                        /proc/450/task/762/cwd (readlink: Permission denied)
+amazon-ss 450 762 amazon-ss             root  rtd   unknown                                        /proc/450/task/762/root (readlink: Permission denied)
+amazon-ss 450 762 amazon-ss             root  txt   unknown                                        /proc/450/task/762/exe (readlink: Permission denied)
+amazon-ss 450 762 amazon-ss             root NOFD                                                  /proc/450/task/762/fd (opendir: Permission denied)
+amazon-ss 450 787 amazon-ss             root  cwd   unknown                                        /proc/450/task/787/cwd (readlink: Permission denied)
+amazon-ss 450 787 amazon-ss             root  rtd   unknown                                        /proc/450/task/787/root (readlink: Permission denied)
+amazon-ss 450 787 amazon-ss             root  txt   unknown                                        /proc/450/task/787/exe (readlink: Permission denied)
+amazon-ss 450 787 amazon-ss             root NOFD                                                  /proc/450/task/787/fd (opendir: Permission denied)
+amazon-ss 450 788 amazon-ss             root  cwd   unknown                                        /proc/450/task/788/cwd (readlink: Permission denied)
+amazon-ss 450 788 amazon-ss             root  rtd   unknown                                        /proc/450/task/788/root (readlink: Permission denied)
+amazon-ss 450 788 amazon-ss             root  txt   unknown                                        /proc/450/task/788/exe (readlink: Permission denied)
+amazon-ss 450 788 amazon-ss             root NOFD                                                  /proc/450/task/788/fd (opendir: Permission denied)
+snapd     452                           root  cwd   unknown                                        /proc/452/cwd (readlink: Permission denied)
+snapd     452                           root  rtd   unknown                                        /proc/452/root (readlink: Permission denied)
+snapd     452                           root  txt   unknown                                        /proc/452/exe (readlink: Permission denied)
+snapd     452                           root NOFD                                                  /proc/452/fd (opendir: Permission denied)
+snapd     452 643 snapd                 root  cwd   unknown                                        /proc/452/task/643/cwd (readlink: Permission denied)
+snapd     452 643 snapd                 root  rtd   unknown                                        /proc/452/task/643/root (readlink: Permission denied)
+snapd     452 643 snapd                 root  txt   unknown                                        /proc/452/task/643/exe (readlink: Permission denied)
+snapd     452 643 snapd                 root NOFD                                                  /proc/452/task/643/fd (opendir: Permission denied)
+snapd     452 644 snapd                 root  cwd   unknown                                        /proc/452/task/644/cwd (readlink: Permission denied)
+snapd     452 644 snapd                 root  rtd   unknown                                        /proc/452/task/644/root (readlink: Permission denied)
+snapd     452 644 snapd                 root  txt   unknown                                        /proc/452/task/644/exe (readlink: Permission denied)
+snapd     452 644 snapd                 root NOFD                                                  /proc/452/task/644/fd (opendir: Permission denied)
+snapd     452 645 snapd                 root  cwd   unknown                                        /proc/452/task/645/cwd (readlink: Permission denied)
+snapd     452 645 snapd                 root  rtd   unknown                                        /proc/452/task/645/root (readlink: Permission denied)
+snapd     452 645 snapd                 root  txt   unknown                                        /proc/452/task/645/exe (readlink: Permission denied)
+snapd     452 645 snapd                 root NOFD                                                  /proc/452/task/645/fd (opendir: Permission denied)
+snapd     452 646 snapd                 root  cwd   unknown                                        /proc/452/task/646/cwd (readlink: Permission denied)
+snapd     452 646 snapd                 root  rtd   unknown                                        /proc/452/task/646/root (readlink: Permission denied)
+snapd     452 646 snapd                 root  txt   unknown                                        /proc/452/task/646/exe (readlink: Permission denied)
+snapd     452 646 snapd                 root NOFD                                                  /proc/452/task/646/fd (opendir: Permission denied)
+snapd     452 677 snapd                 root  cwd   unknown                                        /proc/452/task/677/cwd (readlink: Permission denied)
+snapd     452 677 snapd                 root  rtd   unknown                                        /proc/452/task/677/root (readlink: Permission denied)
+snapd     452 677 snapd                 root  txt   unknown                                        /proc/452/task/677/exe (readlink: Permission denied)
+snapd     452 677 snapd                 root NOFD                                                  /proc/452/task/677/fd (opendir: Permission denied)
+snapd     452 678 snapd                 root  cwd   unknown                                        /proc/452/task/678/cwd (readlink: Permission denied)
+snapd     452 678 snapd                 root  rtd   unknown                                        /proc/452/task/678/root (readlink: Permission denied)
+snapd     452 678 snapd                 root  txt   unknown                                        /proc/452/task/678/exe (readlink: Permission denied)
+snapd     452 678 snapd                 root NOFD                                                  /proc/452/task/678/fd (opendir: Permission denied)
+snapd     452 682 snapd                 root  cwd   unknown                                        /proc/452/task/682/cwd (readlink: Permission denied)
+snapd     452 682 snapd                 root  rtd   unknown                                        /proc/452/task/682/root (readlink: Permission denied)
+snapd     452 682 snapd                 root  txt   unknown                                        /proc/452/task/682/exe (readlink: Permission denied)
+snapd     452 682 snapd                 root NOFD                                                  /proc/452/task/682/fd (opendir: Permission denied)
+snapd     452 797 snapd                 root  cwd   unknown                                        /proc/452/task/797/cwd (readlink: Permission denied)
+snapd     452 797 snapd                 root  rtd   unknown                                        /proc/452/task/797/root (readlink: Permission denied)
+snapd     452 797 snapd                 root  txt   unknown                                        /proc/452/task/797/exe (readlink: Permission denied)
+snapd     452 797 snapd                 root NOFD                                                  /proc/452/task/797/fd (opendir: Permission denied)
+systemd-l 455                           root  cwd   unknown                                        /proc/455/cwd (readlink: Permission denied)
+systemd-l 455                           root  rtd   unknown                                        /proc/455/root (readlink: Permission denied)
+systemd-l 455                           root  txt   unknown                                        /proc/455/exe (readlink: Permission denied)
+systemd-l 455                           root NOFD                                                  /proc/455/fd (opendir: Permission denied)
+udisksd   457                           root  cwd   unknown                                        /proc/457/cwd (readlink: Permission denied)
+udisksd   457                           root  rtd   unknown                                        /proc/457/root (readlink: Permission denied)
+udisksd   457                           root  txt   unknown                                        /proc/457/exe (readlink: Permission denied)
+udisksd   457                           root NOFD                                                  /proc/457/fd (opendir: Permission denied)
+udisksd   457 472 gmain                 root  cwd   unknown                                        /proc/457/task/472/cwd (readlink: Permission denied)
+udisksd   457 472 gmain                 root  rtd   unknown                                        /proc/457/task/472/root (readlink: Permission denied)
+udisksd   457 472 gmain                 root  txt   unknown                                        /proc/457/task/472/exe (readlink: Permission denied)
+udisksd   457 472 gmain                 root NOFD                                                  /proc/457/task/472/fd (opendir: Permission denied)
+udisksd   457 481 gdbus                 root  cwd   unknown                                        /proc/457/task/481/cwd (readlink: Permission denied)
+udisksd   457 481 gdbus                 root  rtd   unknown                                        /proc/457/task/481/root (readlink: Permission denied)
+udisksd   457 481 gdbus                 root  txt   unknown                                        /proc/457/task/481/exe (readlink: Permission denied)
+udisksd   457 481 gdbus                 root NOFD                                                  /proc/457/task/481/fd (opendir: Permission denied)
+udisksd   457 515 probing-t             root  cwd   unknown                                        /proc/457/task/515/cwd (readlink: Permission denied)
+udisksd   457 515 probing-t             root  rtd   unknown                                        /proc/457/task/515/root (readlink: Permission denied)
+udisksd   457 515 probing-t             root  txt   unknown                                        /proc/457/task/515/exe (readlink: Permission denied)
+udisksd   457 515 probing-t             root NOFD                                                  /proc/457/task/515/fd (opendir: Permission denied)
+udisksd   457 560 cleanup               root  cwd   unknown                                        /proc/457/task/560/cwd (readlink: Permission denied)
+udisksd   457 560 cleanup               root  rtd   unknown                                        /proc/457/task/560/root (readlink: Permission denied)
+udisksd   457 560 cleanup               root  txt   unknown                                        /proc/457/task/560/exe (readlink: Permission denied)
+udisksd   457 560 cleanup               root NOFD                                                  /proc/457/task/560/fd (opendir: Permission denied)
+atd       460                         daemon  cwd   unknown                                        /proc/460/cwd (readlink: Permission denied)
+atd       460                         daemon  rtd   unknown                                        /proc/460/root (readlink: Permission denied)
+atd       460                         daemon  txt   unknown                                        /proc/460/exe (readlink: Permission denied)
+atd       460                         daemon NOFD                                                  /proc/460/fd (opendir: Permission denied)
+kworker/0 464                           root  cwd   unknown                                        /proc/464/cwd (readlink: Permission denied)
+kworker/0 464                           root  rtd   unknown                                        /proc/464/root (readlink: Permission denied)
+kworker/0 464                           root  txt   unknown                                        /proc/464/exe (readlink: Permission denied)
+kworker/0 464                           root NOFD                                                  /proc/464/fd (opendir: Permission denied)
+agetty    487                           root  cwd   unknown                                        /proc/487/cwd (readlink: Permission denied)
+agetty    487                           root  rtd   unknown                                        /proc/487/root (readlink: Permission denied)
+agetty    487                           root  txt   unknown                                        /proc/487/exe (readlink: Permission denied)
+agetty    487                           root NOFD                                                  /proc/487/fd (opendir: Permission denied)
+ModemMana 496                           root  cwd   unknown                                        /proc/496/cwd (readlink: Permission denied)
+ModemMana 496                           root  rtd   unknown                                        /proc/496/root (readlink: Permission denied)
+ModemMana 496                           root  txt   unknown                                        /proc/496/exe (readlink: Permission denied)
+ModemMana 496                           root NOFD                                                  /proc/496/fd (opendir: Permission denied)
+ModemMana 496 516 gmain                 root  cwd   unknown                                        /proc/496/task/516/cwd (readlink: Permission denied)
+ModemMana 496 516 gmain                 root  rtd   unknown                                        /proc/496/task/516/root (readlink: Permission denied)
+ModemMana 496 516 gmain                 root  txt   unknown                                        /proc/496/task/516/exe (readlink: Permission denied)
+ModemMana 496 516 gmain                 root NOFD                                                  /proc/496/task/516/fd (opendir: Permission denied)
+ModemMana 496 522 gdbus                 root  cwd   unknown                                        /proc/496/task/522/cwd (readlink: Permission denied)
+ModemMana 496 522 gdbus                 root  rtd   unknown                                        /proc/496/task/522/root (readlink: Permission denied)
+ModemMana 496 522 gdbus                 root  txt   unknown                                        /proc/496/task/522/exe (readlink: Permission denied)
+ModemMana 496 522 gdbus                 root NOFD                                                  /proc/496/task/522/fd (opendir: Permission denied)
+agetty    498                           root  cwd   unknown                                        /proc/498/cwd (readlink: Permission denied)
+agetty    498                           root  rtd   unknown                                        /proc/498/root (readlink: Permission denied)
+agetty    498                           root  txt   unknown                                        /proc/498/exe (readlink: Permission denied)
+agetty    498                           root NOFD                                                  /proc/498/fd (opendir: Permission denied)
+unattende 549                           root  cwd   unknown                                        /proc/549/cwd (readlink: Permission denied)
+unattende 549                           root  rtd   unknown                                        /proc/549/root (readlink: Permission denied)
+unattende 549                           root  txt   unknown                                        /proc/549/exe (readlink: Permission denied)
+unattende 549                           root NOFD                                                  /proc/549/fd (opendir: Permission denied)
+unattende 549 631 gmain                 root  cwd   unknown                                        /proc/549/task/631/cwd (readlink: Permission denied)
+unattende 549 631 gmain                 root  rtd   unknown                                        /proc/549/task/631/root (readlink: Permission denied)
+unattende 549 631 gmain                 root  txt   unknown                                        /proc/549/task/631/exe (readlink: Permission denied)
+unattende 549 631 gmain                 root NOFD                                                  /proc/549/task/631/fd (opendir: Permission denied)
+sshd      642                           root  cwd   unknown                                        /proc/642/cwd (readlink: Permission denied)
+sshd      642                           root  rtd   unknown                                        /proc/642/root (readlink: Permission denied)
+sshd      642                           root  txt   unknown                                        /proc/642/exe (readlink: Permission denied)
+sshd      642                           root NOFD                                                  /proc/642/fd (opendir: Permission denied)
+sshd      737                           root  cwd   unknown                                        /proc/737/cwd (readlink: Permission denied)
+sshd      737                           root  rtd   unknown                                        /proc/737/root (readlink: Permission denied)
+sshd      737                           root  txt   unknown                                        /proc/737/exe (readlink: Permission denied)
+sshd      737                           root NOFD                                                  /proc/737/fd (opendir: Permission denied)
+kworker/0 780                           root  cwd   unknown                                        /proc/780/cwd (readlink: Permission denied)
+kworker/0 780                           root  rtd   unknown                                        /proc/780/root (readlink: Permission denied)
+kworker/0 780                           root  txt   unknown                                        /proc/780/exe (readlink: Permission denied)
+kworker/0 780                           root NOFD                                                  /proc/780/fd (opendir: Permission denied)
+ssm-agent 786                           root  cwd   unknown                                        /proc/786/cwd (readlink: Permission denied)
+ssm-agent 786                           root  rtd   unknown                                        /proc/786/root (readlink: Permission denied)
+ssm-agent 786                           root  txt   unknown                                        /proc/786/exe (readlink: Permission denied)
+ssm-agent 786                           root NOFD                                                  /proc/786/fd (opendir: Permission denied)
+ssm-agent 786 789 ssm-agent             root  cwd   unknown                                        /proc/786/task/789/cwd (readlink: Permission denied)
+ssm-agent 786 789 ssm-agent             root  rtd   unknown                                        /proc/786/task/789/root (readlink: Permission denied)
+ssm-agent 786 789 ssm-agent             root  txt   unknown                                        /proc/786/task/789/exe (readlink: Permission denied)
+ssm-agent 786 789 ssm-agent             root NOFD                                                  /proc/786/task/789/fd (opendir: Permission denied)
+ssm-agent 786 790 ssm-agent             root  cwd   unknown                                        /proc/786/task/790/cwd (readlink: Permission denied)
+ssm-agent 786 790 ssm-agent             root  rtd   unknown                                        /proc/786/task/790/root (readlink: Permission denied)
+ssm-agent 786 790 ssm-agent             root  txt   unknown                                        /proc/786/task/790/exe (readlink: Permission denied)
+ssm-agent 786 790 ssm-agent             root NOFD                                                  /proc/786/task/790/fd (opendir: Permission denied)
+ssm-agent 786 791 ssm-agent             root  cwd   unknown                                        /proc/786/task/791/cwd (readlink: Permission denied)
+ssm-agent 786 791 ssm-agent             root  rtd   unknown                                        /proc/786/task/791/root (readlink: Permission denied)
+ssm-agent 786 791 ssm-agent             root  txt   unknown                                        /proc/786/task/791/exe (readlink: Permission denied)
+ssm-agent 786 791 ssm-agent             root NOFD                                                  /proc/786/task/791/fd (opendir: Permission denied)
+ssm-agent 786 792 ssm-agent             root  cwd   unknown                                        /proc/786/task/792/cwd (readlink: Permission denied)
+ssm-agent 786 792 ssm-agent             root  rtd   unknown                                        /proc/786/task/792/root (readlink: Permission denied)
+ssm-agent 786 792 ssm-agent             root  txt   unknown                                        /proc/786/task/792/exe (readlink: Permission denied)
+ssm-agent 786 792 ssm-agent             root NOFD                                                  /proc/786/task/792/fd (opendir: Permission denied)
+ssm-agent 786 794 ssm-agent             root  cwd   unknown                                        /proc/786/task/794/cwd (readlink: Permission denied)
+ssm-agent 786 794 ssm-agent             root  rtd   unknown                                        /proc/786/task/794/root (readlink: Permission denied)
+ssm-agent 786 794 ssm-agent             root  txt   unknown                                        /proc/786/task/794/exe (readlink: Permission denied)
+ssm-agent 786 794 ssm-agent             root NOFD                                                  /proc/786/task/794/fd (opendir: Permission denied)
+ssm-agent 786 795 ssm-agent             root  cwd   unknown                                        /proc/786/task/795/cwd (readlink: Permission denied)
+ssm-agent 786 795 ssm-agent             root  rtd   unknown                                        /proc/786/task/795/root (readlink: Permission denied)
+ssm-agent 786 795 ssm-agent             root  txt   unknown                                        /proc/786/task/795/exe (readlink: Permission denied)
+ssm-agent 786 795 ssm-agent             root NOFD                                                  /proc/786/task/795/fd (opendir: Permission denied)
+ssm-agent 786 796 ssm-agent             root  cwd   unknown                                        /proc/786/task/796/cwd (readlink: Permission denied)
+ssm-agent 786 796 ssm-agent             root  rtd   unknown                                        /proc/786/task/796/root (readlink: Permission denied)
+ssm-agent 786 796 ssm-agent             root  txt   unknown                                        /proc/786/task/796/exe (readlink: Permission denied)
+ssm-agent 786 796 ssm-agent             root NOFD                                                  /proc/786/task/796/fd (opendir: Permission denied)
+systemd   813                         ubuntu  cwd       DIR              202,1     4096          2 /
+systemd   813                         ubuntu  rtd       DIR              202,1     4096          2 /
+systemd   813                         ubuntu  txt       REG              202,1  1620224       3409 /usr/lib/systemd/systemd
+systemd   813                         ubuntu  mem       REG              202,1  1369352       3466 /usr/lib/x86_64-linux-gnu/libm-2.31.so
+systemd   813                         ubuntu  mem       REG              202,1   178528       4722 /usr/lib/x86_64-linux-gnu/libudev.so.1.6.17
+systemd   813                         ubuntu  mem       REG              202,1  1575112       4570 /usr/lib/x86_64-linux-gnu/libunistring.so.2.1.0
+systemd   813                         ubuntu  mem       REG              202,1   137584       3773 /usr/lib/x86_64-linux-gnu/libgpg-error.so.0.28.0
+systemd   813                         ubuntu  mem       REG              202,1    67912       4596 /usr/lib/x86_64-linux-gnu/libjson-c.so.4.0.0
+systemd   813                         ubuntu  mem       REG              202,1    34872       3510 /usr/lib/x86_64-linux-gnu/libargon2.so.1
+systemd   813                         ubuntu  mem       REG              202,1   431472       3785 /usr/lib/x86_64-linux-gnu/libdevmapper.so.1.02.1
+systemd   813                         ubuntu  mem       REG              202,1    30936       3770 /usr/lib/x86_64-linux-gnu/libuuid.so.1.3.0
+systemd   813                         ubuntu  mem       REG              202,1  2954080      11351 /usr/lib/x86_64-linux-gnu/libcrypto.so.1.1
+systemd   813                         ubuntu  mem       REG              202,1    27064       3478 /usr/lib/x86_64-linux-gnu/libcap-ng.so.0.0.0
+systemd   813                         ubuntu  mem       REG              202,1    18816       3465 /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+systemd   813                         ubuntu  mem       REG              202,1   584392       3837 /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.9.0
+systemd   813                         ubuntu  mem       REG              202,1   157224       3492 /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+systemd   813                         ubuntu  mem       REG              202,1   162264       3775 /usr/lib/x86_64-linux-gnu/liblzma.so.5.2.4
+systemd   813                         ubuntu  mem       REG              202,1   129248       3497 /usr/lib/x86_64-linux-gnu/liblz4.so.1.9.2
+systemd   813                         ubuntu  mem       REG              202,1    35440       4555 /usr/lib/x86_64-linux-gnu/libip4tc.so.2.0.0
+systemd   813                         ubuntu  mem       REG              202,1   129096       4545 /usr/lib/x86_64-linux-gnu/libidn2.so.0.3.6
+systemd   813                         ubuntu  mem       REG              202,1  1168056       4552 /usr/lib/x86_64-linux-gnu/libgcrypt.so.20.2.5
+systemd   813                         ubuntu  mem       REG              202,1   417328       4564 /usr/lib/x86_64-linux-gnu/libcryptsetup.so.12.5.0
+systemd   813                         ubuntu  mem       REG              202,1   202760       3483 /usr/lib/x86_64-linux-gnu/libcrypt.so.1.1.0
+systemd   813                         ubuntu  mem       REG              202,1    31120       3767 /usr/lib/x86_64-linux-gnu/libcap.so.2.32
+systemd   813                         ubuntu  mem       REG              202,1   351352       3768 /usr/lib/x86_64-linux-gnu/libblkid.so.1.1.0
+systemd   813                         ubuntu  mem       REG              202,1    39088       3501 /usr/lib/x86_64-linux-gnu/libacl.so.1.1.2253
+systemd   813                         ubuntu  mem       REG              202,1    80736       4590 /usr/lib/x86_64-linux-gnu/libapparmor.so.1.6.1
+systemd   813                         ubuntu  mem       REG              202,1   104656       4557 /usr/lib/x86_64-linux-gnu/libkmod.so.2.3.5
+systemd   813                         ubuntu  mem       REG              202,1   133200       3506 /usr/lib/x86_64-linux-gnu/libaudit.so.1.0.0
+systemd   813                         ubuntu  mem       REG              202,1    68320       4724 /usr/lib/x86_64-linux-gnu/libpam.so.0.84.2
+systemd   813                         ubuntu  mem       REG              202,1   387768       3859 /usr/lib/x86_64-linux-gnu/libmount.so.1.1.0
+systemd   813                         ubuntu  mem       REG              202,1   163200       3843 /usr/lib/x86_64-linux-gnu/libselinux.so.1
+systemd   813                         ubuntu  mem       REG              202,1   133568       3851 /usr/lib/x86_64-linux-gnu/libseccomp.so.2.5.1
+systemd   813                         ubuntu  mem       REG              202,1    35928       3494 /usr/lib/x86_64-linux-gnu/librt-2.31.so
+systemd   813                         ubuntu  mem       REG              202,1  2454472       3307 /usr/lib/systemd/libsystemd-shared-245.so
+systemd   813                         ubuntu  mem       REG              202,1  2029560       3464 /usr/lib/x86_64-linux-gnu/libc-2.31.so
+systemd   813                         ubuntu  mem       REG              202,1   191472       3460 /usr/lib/x86_64-linux-gnu/ld-2.31.so
+systemd   813                         ubuntu    0r      CHR                1,3      0t0          5 /dev/null
+systemd   813                         ubuntu    1u     unix 0x0000000000000000      0t0      26680 type=STREAM
+systemd   813                         ubuntu    2u     unix 0x0000000000000000      0t0      26680 type=STREAM
+systemd   813                         ubuntu    3u     unix 0x0000000000000000      0t0      26708 type=DGRAM
+systemd   813                         ubuntu    4u  a_inode               0,14        0      12570 [eventpoll]
+systemd   813                         ubuntu    5u  a_inode               0,14        0      12570 [signalfd]
+systemd   813                         ubuntu    6r  a_inode               0,14        0      12570 inotify
+systemd   813                         ubuntu    7r      DIR               0,28        0       1476 /sys/fs/cgroup/unified/user.slice/user-1000.slice/user@1000.service
+systemd   813                         ubuntu    8u  a_inode               0,14        0      12570 [timerfd]
+systemd   813                         ubuntu    9u  a_inode               0,14        0      12570 [eventpoll]
+systemd   813                         ubuntu   10r      REG               0,22        0      26711 /proc/813/mountinfo
+systemd   813                         ubuntu   11r  a_inode               0,14        0      12570 inotify
+systemd   813                         ubuntu   12u     unix 0x0000000000000000      0t0      26724 /run/user/1000/bus type=STREAM
+systemd   813                         ubuntu   13r  a_inode               0,14        0      12570 inotify
+systemd   813                         ubuntu   14r      REG               0,22        0 4026532122 /proc/swaps
+systemd   813                         ubuntu   15u  netlink                         0t0      26712 KOBJECT_UEVENT
+systemd   813                         ubuntu   16u     unix 0x0000000000000000      0t0      26714 /run/user/1000/systemd/notify type=DGRAM
+systemd   813                         ubuntu   17u     unix 0x0000000000000000      0t0      26715 type=DGRAM
+systemd   813                         ubuntu   18u     unix 0x0000000000000000      0t0      26716 type=DGRAM
+systemd   813                         ubuntu   19u     unix 0x0000000000000000      0t0      26717 /run/user/1000/systemd/private type=STREAM
+systemd   813                         ubuntu   20u     unix 0x0000000000000000      0t0      26718 type=STREAM
+systemd   813                         ubuntu   21u  a_inode               0,14        0      12570 [timerfd]
+systemd   813                         ubuntu   26u     unix 0x0000000000000000      0t0      26725 /run/user/1000/gnupg/S.dirmngr type=STREAM
+systemd   813                         ubuntu   27u     unix 0x0000000000000000      0t0      26726 /run/user/1000/gnupg/S.gpg-agent.browser type=STREAM
+systemd   813                         ubuntu   28u     unix 0x0000000000000000      0t0      26727 /run/user/1000/gnupg/S.gpg-agent.extra type=STREAM
+systemd   813                         ubuntu   29u     unix 0x0000000000000000      0t0      26728 /run/user/1000/gnupg/S.gpg-agent.ssh type=STREAM
+systemd   813                         ubuntu   30u     unix 0x0000000000000000      0t0      26729 /run/user/1000/gnupg/S.gpg-agent type=STREAM
+systemd   813                         ubuntu   31u     unix 0x0000000000000000      0t0      26760 /run/user/1000/pk-debconf-socket type=STREAM
+systemd   813                         ubuntu   32u     unix 0x0000000000000000      0t0      26761 /run/user/1000/snapd-session-agent.socket type=STREAM
+kworker/0 814                           root  cwd   unknown                                        /proc/814/cwd (readlink: Permission denied)
+kworker/0 814                           root  rtd   unknown                                        /proc/814/root (readlink: Permission denied)
+kworker/0 814                           root  txt   unknown                                        /proc/814/exe (readlink: Permission denied)
+kworker/0 814                           root NOFD                                                  /proc/814/fd (opendir: Permission denied)
+(sd-pam)  815                         ubuntu  cwd   unknown                                        /proc/815/cwd (readlink: Permission denied)
+(sd-pam)  815                         ubuntu  rtd   unknown                                        /proc/815/root (readlink: Permission denied)
+(sd-pam)  815                         ubuntu  txt   unknown                                        /proc/815/exe (readlink: Permission denied)
+(sd-pam)  815                         ubuntu NOFD                                                  /proc/815/fd (opendir: Permission denied)
+sshd      914                         ubuntu  cwd   unknown                                        /proc/914/cwd (readlink: Permission denied)
+sshd      914                         ubuntu  rtd   unknown                                        /proc/914/root (readlink: Permission denied)
+sshd      914                         ubuntu  txt   unknown                                        /proc/914/exe (readlink: Permission denied)
+sshd      914                         ubuntu NOFD                                                  /proc/914/fd (opendir: Permission denied)
+bash      917                         ubuntu  cwd       DIR              202,1     4096     256111 /home/ubuntu
+bash      917                         ubuntu  rtd       DIR              202,1     4096          2 /
+bash      917                         ubuntu  txt       REG              202,1  1183448      64987 /usr/bin/bash
+bash      917                         ubuntu  mem       REG              202,1    51832       3474 /usr/lib/x86_64-linux-gnu/libnss_files-2.31.so
+bash      917                         ubuntu  mem       REG              202,1   201272       6085 /usr/lib/locale/C.UTF-8/LC_CTYPE
+bash      917                         ubuntu  mem       REG              202,1       50       6090 /usr/lib/locale/C.UTF-8/LC_NUMERIC
+bash      917                         ubuntu  mem       REG              202,1     3360       6093 /usr/lib/locale/C.UTF-8/LC_TIME
+bash      917                         ubuntu  mem       REG              202,1  1518110       6084 /usr/lib/locale/C.UTF-8/LC_COLLATE
+bash      917                         ubuntu  mem       REG              202,1      270       6088 /usr/lib/locale/C.UTF-8/LC_MONETARY
+bash      917                         ubuntu  mem       REG              202,1       48       6082 /usr/lib/locale/C.UTF-8/LC_MESSAGES/SYS_LC_MESSAGES
+bash      917                         ubuntu  mem       REG              202,1       34       6091 /usr/lib/locale/C.UTF-8/LC_PAPER
+bash      917                         ubuntu  mem       REG              202,1       62       6089 /usr/lib/locale/C.UTF-8/LC_NAME
+bash      917                         ubuntu  mem       REG              202,1      131       6083 /usr/lib/locale/C.UTF-8/LC_ADDRESS
+bash      917                         ubuntu  mem       REG              202,1       47       6092 /usr/lib/locale/C.UTF-8/LC_TELEPHONE
+bash      917                         ubuntu  mem       REG              202,1       23       6087 /usr/lib/locale/C.UTF-8/LC_MEASUREMENT
+bash      917                         ubuntu  mem       REG              202,1  3035952       6079 /usr/lib/locale/locale-archive
+bash      917                         ubuntu  mem       REG              202,1  2029560       3464 /usr/lib/x86_64-linux-gnu/libc-2.31.so
+bash      917                         ubuntu  mem       REG              202,1    18816       3465 /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+bash      917                         ubuntu  mem       REG              202,1   192032       4598 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.2
+bash      917                         ubuntu  mem       REG              202,1    27002       3760 /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+bash      917                         ubuntu  mem       REG              202,1   191472       3460 /usr/lib/x86_64-linux-gnu/ld-2.31.so
+bash      917                         ubuntu  mem       REG              202,1      252       6086 /usr/lib/locale/C.UTF-8/LC_IDENTIFICATION
+bash      917                         ubuntu    0u      CHR              136,0      0t0          3 /dev/pts/0
+bash      917                         ubuntu    1u      CHR              136,0      0t0          3 /dev/pts/0
+bash      917                         ubuntu    2u      CHR              136,0      0t0          3 /dev/pts/0
+bash      917                         ubuntu  255u      CHR              136,0      0t0          3 /dev/pts/0
+lsof      986                         ubuntu  cwd       DIR              202,1     4096     256111 /home/ubuntu
+lsof      986                         ubuntu  rtd       DIR              202,1     4096          2 /
+lsof      986                         ubuntu  txt       REG              202,1   175744       2191 /usr/bin/lsof
+lsof      986                         ubuntu  mem       REG              202,1   201272       6085 /usr/lib/locale/C.UTF-8/LC_CTYPE
+lsof      986                         ubuntu  mem       REG              202,1  3035952       6079 /usr/lib/locale/locale-archive
+lsof      986                         ubuntu  mem       REG              202,1   157224       3492 /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+lsof      986                         ubuntu  mem       REG              202,1    18816       3465 /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+lsof      986                         ubuntu  mem       REG              202,1   584392       3837 /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.9.0
+lsof      986                         ubuntu  mem       REG              202,1  2029560       3464 /usr/lib/x86_64-linux-gnu/libc-2.31.so
+lsof      986                         ubuntu  mem       REG              202,1   163200       3843 /usr/lib/x86_64-linux-gnu/libselinux.so.1
+lsof      986                         ubuntu  mem       REG              202,1    27002       3760 /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+lsof      986                         ubuntu  mem       REG              202,1   191472       3460 /usr/lib/x86_64-linux-gnu/ld-2.31.so
+lsof      986                         ubuntu    0u      CHR              136,0      0t0          3 /dev/pts/0
+lsof      986                         ubuntu    1w      REG              202,1        0     256371 /home/ubuntu/lsof.txt
+lsof      986                         ubuntu    2u      CHR              136,0      0t0          3 /dev/pts/0
+lsof      986                         ubuntu    3r      DIR               0,22        0          1 /proc
+lsof      986                         ubuntu    4r      DIR               0,22        0      28669 /proc/986/fd
+lsof      986                         ubuntu    5w     FIFO               0,13      0t0      28674 pipe
+lsof      986                         ubuntu    6r     FIFO               0,13      0t0      28675 pipe
+lsof      987                         ubuntu  cwd       DIR              202,1     4096     256111 /home/ubuntu
+lsof      987                         ubuntu  rtd       DIR              202,1     4096          2 /
+lsof      987                         ubuntu  txt       REG              202,1   175744       2191 /usr/bin/lsof
+lsof      987                         ubuntu  mem       REG              202,1   201272       6085 /usr/lib/locale/C.UTF-8/LC_CTYPE
+lsof      987                         ubuntu  mem       REG              202,1  3035952       6079 /usr/lib/locale/locale-archive
+lsof      987                         ubuntu  mem       REG              202,1   157224       3492 /usr/lib/x86_64-linux-gnu/libpthread-2.31.so
+lsof      987                         ubuntu  mem       REG              202,1    18816       3465 /usr/lib/x86_64-linux-gnu/libdl-2.31.so
+lsof      987                         ubuntu  mem       REG              202,1   584392       3837 /usr/lib/x86_64-linux-gnu/libpcre2-8.so.0.9.0
+lsof      987                         ubuntu  mem       REG              202,1  2029560       3464 /usr/lib/x86_64-linux-gnu/libc-2.31.so
+lsof      987                         ubuntu  mem       REG              202,1   163200       3843 /usr/lib/x86_64-linux-gnu/libselinux.so.1
+lsof      987                         ubuntu  mem       REG              202,1    27002       3760 /usr/lib/x86_64-linux-gnu/gconv/gconv-modules.cache
+lsof      987                         ubuntu  mem       REG              202,1   191472       3460 /usr/lib/x86_64-linux-gnu/ld-2.31.so
+lsof      987                         ubuntu    4r     FIFO               0,13      0t0      28674 pipe
+lsof      987                         ubuntu    7w     FIFO               0,13      0t0      28675 pipe
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  1 03:12 ?        00:00:04 /sbin/init
+root           2       0  0 03:12 ?        00:00:00 [kthreadd]
+root           3       2  0 03:12 ?        00:00:00 [rcu_gp]
+root           4       2  0 03:12 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 03:12 ?        00:00:00 [kworker/0:0-events]
+root           6       2  0 03:12 ?        00:00:00 [kworker/0:0H-events_highpri]
+root           7       2  0 03:12 ?        00:00:00 [kworker/0:1-cgroup_destroy]
+root           8       2  0 03:12 ?        00:00:00 [kworker/u30:0-ext4-rsv-conversion]
+root           9       2  0 03:12 ?        00:00:00 [mm_percpu_wq]
+root          10       2  0 03:12 ?        00:00:00 [rcu_tasks_rude_]
+root          11       2  0 03:12 ?        00:00:00 [rcu_tasks_trace]
+root          12       2  0 03:12 ?        00:00:00 [ksoftirqd/0]
+root          13       2  0 03:12 ?        00:00:00 [rcu_sched]
+root          14       2  0 03:12 ?        00:00:00 [migration/0]
+root          15       2  0 03:12 ?        00:00:00 [idle_inject/0]
+root          16       2  0 03:12 ?        00:00:00 [cpuhp/0]
+root          17       2  0 03:12 ?        00:00:00 [kdevtmpfs]
+root          18       2  0 03:12 ?        00:00:00 [netns]
+root          19       2  0 03:12 ?        00:00:00 [inet_frag_wq]
+root          20       2  0 03:12 ?        00:00:00 [kauditd]
+root          21       2  0 03:12 ?        00:00:00 [khungtaskd]
+root          22       2  0 03:12 ?        00:00:00 [oom_reaper]
+root          23       2  0 03:12 ?        00:00:00 [writeback]
+root          24       2  0 03:12 ?        00:00:00 [kcompactd0]
+root          25       2  0 03:12 ?        00:00:00 [ksmd]
+root          26       2  0 03:12 ?        00:00:00 [khugepaged]
+root          72       2  0 03:12 ?        00:00:00 [kintegrityd]
+root          73       2  0 03:12 ?        00:00:00 [kblockd]
+root          74       2  0 03:12 ?        00:00:00 [blkcg_punt_bio]
+root          75       2  0 03:12 ?        00:00:00 [xen-balloon]
+root          76       2  0 03:12 ?        00:00:00 [tpm_dev_wq]
+root          77       2  0 03:12 ?        00:00:00 [ata_sff]
+root          78       2  0 03:12 ?        00:00:00 [md]
+root          79       2  0 03:12 ?        00:00:00 [edac-poller]
+root          80       2  0 03:12 ?        00:00:00 [devfreq_wq]
+root          81       2  0 03:12 ?        00:00:00 [watchdogd]
+root          82       2  0 03:12 ?        00:00:00 [kworker/u30:1-events_unbound]
+root          83       2  0 03:12 ?        00:00:00 [kworker/0:1H-kblockd]
+root          85       2  0 03:12 ?        00:00:00 [kswapd0]
+root          86       2  0 03:12 ?        00:00:00 [ecryptfs-kthrea]
+root          88       2  0 03:12 ?        00:00:00 [kthrotld]
+root          89       2  0 03:12 ?        00:00:00 [acpi_thermal_pm]
+root          90       2  0 03:12 ?        00:00:00 [xenbus]
+root          91       2  0 03:12 ?        00:00:00 [xenwatch]
+root          92       2  0 03:12 ?        00:00:00 [nvme-wq]
+root          93       2  0 03:12 ?        00:00:00 [nvme-reset-wq]
+root          94       2  0 03:12 ?        00:00:00 [nvme-delete-wq]
+root          95       2  0 03:12 ?        00:00:00 [scsi_eh_0]
+root          96       2  0 03:12 ?        00:00:00 [scsi_tmf_0]
+root          97       2  0 03:12 ?        00:00:00 [scsi_eh_1]
+root          98       2  0 03:12 ?        00:00:00 [scsi_tmf_1]
+root          99       2  0 03:12 ?        00:00:00 [kworker/u30:2]
+root         100       2  0 03:12 ?        00:00:00 [vfio-irqfd-clea]
+root         101       2  0 03:12 ?        00:00:00 [mld]
+root         102       2  0 03:12 ?        00:00:00 [ipv6_addrconf]
+root         111       2  0 03:12 ?        00:00:00 [kstrp]
+root         114       2  0 03:12 ?        00:00:00 [zswap-shrink]
+root         115       2  0 03:12 ?        00:00:00 [kworker/u31:0]
+root         120       2  0 03:12 ?        00:00:00 [charger_manager]
+root         121       2  0 03:12 ?        00:00:00 [jbd2/xvda1-8]
+root         122       2  0 03:12 ?        00:00:00 [ext4-rsv-conver]
+root         163       1  0 03:12 ?        00:00:00 /lib/systemd/systemd-journald
+root         179       2  0 03:12 ?        00:00:00 [ipmi-msghandler]
+root         194       1  0 03:12 ?        00:00:00 /lib/systemd/systemd-udevd
+root         206       2  0 03:12 ?        00:00:00 [kworker/0:2-events]
+root         207       2  0 03:12 ?        00:00:00 [cryptd]
+root         266       2  0 03:12 ?        00:00:00 [kaluad]
+root         267       2  0 03:12 ?        00:00:00 [kmpath_rdacd]
+root         268       2  0 03:12 ?        00:00:00 [kmpathd]
+root         269       2  0 03:12 ?        00:00:00 [kmpath_handlerd]
+root         270       1  0 03:12 ?        00:00:00 /sbin/multipathd -d -s
+root         278       2  0 03:12 ?        00:00:00 [loop0]
+root         281       2  0 03:12 ?        00:00:00 [loop1]
+root         283       2  0 03:12 ?        00:00:00 [loop2]
+root         284       2  0 03:12 ?        00:00:00 [loop3]
+root         286       2  0 03:12 ?        00:00:00 [loop4]
+root         290       2  0 03:12 ?        00:00:00 [loop5]
+root         293       2  0 03:12 ?        00:00:00 [loop6]
+root         297       2  0 03:12 ?        00:00:00 [loop7]
+root         300       2  0 03:12 ?        00:00:00 [loop8]
+systemd+     327       1  0 03:12 ?        00:00:00 /lib/systemd/systemd-timesyncd
+systemd+     389       1  0 03:12 ?        00:00:00 /lib/systemd/systemd-networkd
+systemd+     392       1  0 03:12 ?        00:00:00 /lib/systemd/systemd-resolved
+root         425       1  0 03:12 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root         426       1  0 03:12 ?        00:00:00 /usr/sbin/acpid
+root         433       1  0 03:12 ?        00:00:00 /usr/sbin/cron -f
+message+     434       1  0 03:12 ?        00:00:00 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         445       1  0 03:12 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         446       1  0 03:12 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+syslog       447       1  0 03:12 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         450       1  0 03:12 ?        00:00:02 /snap/amazon-ssm-agent/5656/amazon-ssm-agent
+root         452       1  0 03:12 ?        00:00:02 /usr/lib/snapd/snapd
+root         455       1  0 03:12 ?        00:00:00 /lib/systemd/systemd-logind
+root         457       1  0 03:12 ?        00:00:00 /usr/lib/udisks2/udisksd
+daemon       460       1  0 03:12 ?        00:00:00 /usr/sbin/atd -f
+root         464       2  0 03:12 ?        00:00:00 [kworker/0:3-cgroup_destroy]
+root         487       1  0 03:12 ttyS0    00:00:00 /sbin/agetty -o -p -- \u --keep-baud 115200,38400,9600 ttyS0 vt220
+root         496       1  0 03:12 ?        00:00:00 /usr/sbin/ModemManager
+root         498       1  0 03:12 tty1     00:00:00 /sbin/agetty -o -p -- \u --noclear tty1 linux
+root         549       1  0 03:12 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+root         642       1  0 03:12 ?        00:00:00 sshd: /usr/sbin/sshd -D -o AuthorizedKeysCommand /usr/share/ec2-instance-connect/eic_run_authorized_keys %u %f -o AuthorizedKeysCommandUser ec2-instance-connect [listener] 0 of 10-100 startups
+root         737     642  0 03:12 ?        00:00:00 sshd: ubuntu [priv]
+root         780       2  0 03:12 ?        00:00:00 [kworker/0:4-rcu_gp]
+root         786     450  0 03:12 ?        00:00:00 /snap/amazon-ssm-agent/5656/ssm-agent-worker
+ubuntu       813       1  0 03:12 ?        00:00:00 /lib/systemd/systemd --user
+root         814       2  0 03:12 ?        00:00:00 [kworker/0:5-events]
+ubuntu       815     813  0 03:12 ?        00:00:00 (sd-pam)
+ubuntu       914     737  0 03:12 ?        00:00:00 sshd: ubuntu@pts/0
+ubuntu       917     914  0 03:12 pts/0    00:00:00 -bash
+ubuntu       994     917  0 03:17 pts/0    00:00:00 ps -ef
